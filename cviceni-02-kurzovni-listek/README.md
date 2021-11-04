@@ -1,6 +1,6 @@
 # Cvičení 2 - Kurzovní lístek
 
-1. Naklonuj si [repozitář](https://github.com/Czechitas-podklady-WEB/currencies) obsahující React stránku s jednoduchým formulářem pro kurzy měn. Prohlédni si připravený kód.
+1. Naklonuj si [repozitář](https://github.com/Czechitas-podklady-WEB/currencies)  a proveď v něm `npm install`.Kód obsahuje React stránku s jednoduchým formulářem pro kurzy měn. Prohlédni si připravený kód.
 
 2. Do komponenty Rate přidej prop nazvanou `from`, která bude obsahovat kód měny, ze které chceme konvertovat na české koruny. Zařiď, aby komponenta zobrazila kód měny, který uživatel vybere z nabídky (obousměrný data binding).
 

@@ -11,5 +11,6 @@ Tento repozitář obsahuje podklady a cvičení pro 8. lekci kurzu React od Czec
 ## Komunikace dítě rodič
 
 - [Výklad - Prezidentské volby](https://github.com/Czechitas-podklady-WEB/volby)
+	Repozitář si naklonuj a proveď v něm `npm install`.
 - [Cvičení 3 - Kurzovní lístek](./cviceni-02-kurzovni-listek/README.md)
 - [Cvičení 4 -Hamburger menu](./cviceni-03-hamburger-menu/README.md)

@@ -1,6 +1,6 @@
 # Cvičení 3 - Hamburger menu
 
-1. Naklonuj si [repozitář](https://github.com/podlomar/daweb-react-hamburger) obsahující React stránku s jednoduchým hamburger menu. Prohlédni si připravený kód.
+1. Naklonuj si [repozitář](https://github.com/podlomar/daweb-react-hamburger)  a proveď v něm `npm install`. Kód obsahuje React stránku s jednoduchým hamburger menu. Prohlédni si připravený kód.
 
 2. Vytvoř stav `menuOpened`, který bude obsahovat hodnotu `true` nebo `false` podle toho, zda má být menu otevřeno nebo zavřeno. Stav ovládejte kliknutím na tlačítko `.menu__btn`.
 
